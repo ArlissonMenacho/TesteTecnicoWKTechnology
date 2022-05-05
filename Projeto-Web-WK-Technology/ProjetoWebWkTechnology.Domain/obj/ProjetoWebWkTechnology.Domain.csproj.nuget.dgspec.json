@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj": {}
+    "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj": {
+    "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj",
+        "projectUniqueName": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj",
         "projectName": "ProjetoWebWkTechnology.Domain",
-        "projectPath": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj",
+        "projectPath": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\ProjetoWebWkTechnology.Domain.csproj",
         "packagesPath": "C:\\Users\\Menacho\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\obj\\",
+        "outputPath": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Menacho\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2477,11 +2477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\ProjetoWebWkTechnology.csproj",
+      "projectUniqueName": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\ProjetoWebWkTechnology.csproj",
       "projectName": "ProjetoWebWkTechnology",
-      "projectPath": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\ProjetoWebWkTechnology.csproj",
+      "projectPath": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\ProjetoWebWkTechnology.csproj",
       "packagesPath": "C:\\Users\\Menacho\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\obj\\",
+      "outputPath": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Menacho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2499,8 +2499,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Service\\ProjetoWebWkTechnology.Service.csproj": {
-              "projectPath": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Service\\ProjetoWebWkTechnology.Service.csproj"
+            "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Service\\ProjetoWebWkTechnology.Service.csproj": {
+              "projectPath": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology.Service\\ProjetoWebWkTechnology.Service.csproj"
             }
           }
         }

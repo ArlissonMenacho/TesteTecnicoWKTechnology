@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JrfHLwQv67EFziElazb4MN+1hAkO1ND/Nd3G1zJsh1eFjuSPi75umPC/joO5Kq8RDaVDUxNvws0hqavyXUz+jA==",
+  "dgSpecHash": "8OvOgE1zJP6KcEpufj3W40OpRfIyNdMpVKH59HvHG65XxFowHkpCy21GJEnM4MTmHRM19yQkSg9Das1iTWQ4Ow==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos\\PROJETOS PESSOAIS\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\ProjetoWebWkTechnology.csproj",
+  "projectFilePath": "D:\\Arquivos\\PROJETOS TRABALHO\\Global Web\\TesteTecnicoWKTechnology\\Projeto-Web-WK-Technology\\ProjetoWebWkTechnology\\ProjetoWebWkTechnology.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Menacho\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.8\\microsoft.aspnet.mvc.5.2.8.nupkg.sha512",
     "C:\\Users\\Menacho\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.8\\microsoft.aspnet.razor.3.2.8.nupkg.sha512",
