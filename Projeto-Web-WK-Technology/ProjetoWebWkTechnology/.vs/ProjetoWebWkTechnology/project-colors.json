@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6787b943-50a3-4310-9a2a-aae8b2b5104a": {
+      "ProjectGuid": "6787b943-50a3-4310-9a2a-aae8b2b5104a",
+      "DisplayName": "ProjetoWebWkTechnology",
+      "ColorIndex": 0
+    },
+    "844b945b-d53c-43f0-a1ab-a54060da345c": {
+      "ProjectGuid": "844b945b-d53c-43f0-a1ab-a54060da345c",
+      "DisplayName": "ProjetoWebWkTechnology.Domain",
+      "ColorIndex": 1
+    },
+    "c0f5fd96-3a70-4b6c-91a8-fa595cb6252e": {
+      "ProjectGuid": "c0f5fd96-3a70-4b6c-91a8-fa595cb6252e",
+      "DisplayName": "ProjetoWebWkTechnology.Service",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

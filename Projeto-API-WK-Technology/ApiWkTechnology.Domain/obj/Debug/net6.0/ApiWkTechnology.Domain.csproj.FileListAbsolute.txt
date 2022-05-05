@@ -1,0 +1,35 @@
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\bin\Debug\net6.0\ref\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ref\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\bin\Debug\net6.0\ref\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\obj\Debug\net6.0\ref\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\bin\Debug\net6.0\ref\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ref\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Domain\obj\Debug\net6.0\ApiWkTechnology.Domain.pdb

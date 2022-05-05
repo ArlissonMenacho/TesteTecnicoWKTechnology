@@ -1,0 +1,129 @@
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\appsettings.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.exe
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.runtimeconfig.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ref\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\scopedcss\bundle\ApiWkTechnology.styles.css
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ref\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.genruntimeconfig.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Humanizer.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\MySqlConnector.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\appsettings.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.exe
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.runtimeconfig.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ref\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Humanizer.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\MySqlConnector.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\scopedcss\bundle\ApiWkTechnology.styles.css
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ref\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.genruntimeconfig.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\appsettings.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.exe
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.runtimeconfig.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ref\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Humanizer.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\MySqlConnector.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\scopedcss\bundle\ApiWkTechnology.styles.css
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ref\ApiWkTechnology.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology\obj\Debug\net6.0\ApiWkTechnology.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ApiWkTechnology.Domain/1.0.0": {
+        "runtime": {
+          "ApiWkTechnology.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiWkTechnology.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

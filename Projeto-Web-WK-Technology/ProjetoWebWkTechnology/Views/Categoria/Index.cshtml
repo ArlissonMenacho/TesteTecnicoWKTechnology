@@ -1,0 +1,51 @@
+﻿@model List<ProjetoWebWkTechnology.Domain.Entities.Categoria>
+@{
+    ViewData["Title"] = "Página de Categorias";
+}
+
+<link rel="stylesheet" type="text/css" href="~/lib/dataTables/datatables.min.css" />
+
+<div class="container-fluid">
+    <h1 class="text-center">Lista de Categorias</h1>
+    <div class="justify-content-end my-3" style="display:flex">
+        <a class="btn btn-success text-light" asp-controller="Categoria" asp-action="CadastrarCategoria"><i class="bi bi-plus-circle"></i> Cadastrar Produto</a>
+    </div>
+
+    <div class="card px-5 py-3">
+        <table id="tabelaCategoria" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Descrição</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var categoria in Model)
+                {
+                    <tr>
+                        <td>@categoria.Nome</td>
+                        <td>@categoria.Descricao</td>
+                        <td>
+                            <div class="justify-content-around" style="display:flex">
+                                <a class="btn btn-primary text-light" asp-controller="Categoria" asp-action="Visualizar" asp-route-id="@categoria.Id"><i class="bi bi-eye"></i> Visualizar</a>
+                                <a class="btn btn-warning text-light" asp-controller="Categoria" asp-action="Editar" asp-route-id="@categoria.Id"><i class="bi bi-pencil-square"></i> Editar</a>
+                                <a class="btn btn-danger text-light" asp-controller="Categoria" asp-action="Deletar" asp-route-id="@categoria.Id"><i class="bi bi-trash"></i>Excluir</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<script>
+       $(document).ready(function() {
+        $('#tabelaCategoria').DataTable(configuracaoPadraoDatatables);
+    } );
+</script>

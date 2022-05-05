@@ -1,0 +1,30 @@
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Service.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ref\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ref\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Service.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ref\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ref\ProjetoWebWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Service\obj\Debug\net6.0\ProjetoWebWkTechnology.Service.pdb

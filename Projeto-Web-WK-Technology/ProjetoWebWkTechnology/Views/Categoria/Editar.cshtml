@@ -1,0 +1,44 @@
+﻿@model ProjetoWebWkTechnology.Domain.Entities.Categoria
+@{
+    ViewData["Title"] = "Editar Categoria";
+}
+
+<div class="container-fluid">
+    <h1 class="text-center">Editando Categoria @Model.Nome</h1>
+    <div class="card px-5 py-3">
+        <form asp-controller="Categoria" asp-action="Editar" method="post" enctype="multipart/form-data" autocomplete="off">
+            <div class="row">
+
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group col-xl-6 col-md-12">
+                    <label asp-for="Nome" class="control-label"></label>
+                    <input asp-for="Nome" type="text" class="form-control" maxlength="50" />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+                <div class="form-group col-xl-6 col-md-12">
+                    <label asp-for="Descricao" class="control-label">Descrição</label>
+                    <input asp-for="Descricao" type="text" class="form-control" maxlength="100" />
+                    <span asp-validation-for="Descricao" class="text-danger"></span>
+                </div>
+                
+                <div class="justify-content-start my-3 col-6" style="display:flex">
+                    <a class="btn btn-warning btn-round text-light btn-block" asp-controller="Categoria" asp-action="Index">
+                        <i class="bi bi-arrow-left"></i> Voltar
+                    </a>
+                </div>
+
+                <div class="justify-content-end my-3 col-6" style="display:flex">
+                    <button type="submit" class="btn btn-success btn-round  btn-block">
+                        <i class="bi bi-save"></i> Salvar
+                    </button>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+<script type="text/javascript" src="~/js/ValidacaoInputMoeda.js"></script>

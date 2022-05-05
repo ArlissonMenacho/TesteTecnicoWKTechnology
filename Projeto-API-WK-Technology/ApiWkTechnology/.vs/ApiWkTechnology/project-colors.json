@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36fb786c-0463-4d6a-8e41-1e914b80cd32": {
+      "ProjectGuid": "36fb786c-0463-4d6a-8e41-1e914b80cd32",
+      "DisplayName": "ApiWkTechnology",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "3261272f-da9a-48dc-9966-e3e3ff200e01": {
+      "ProjectGuid": "3261272f-da9a-48dc-9966-e3e3ff200e01",
+      "DisplayName": "ApiWkTechnology.Domain",
+      "ColorIndex": 1
+    },
+    "aa53d4f9-02ee-4cd9-a08a-18a4560af3ca": {
+      "ProjectGuid": "aa53d4f9-02ee-4cd9-a08a-18a4560af3ca",
+      "DisplayName": "ApiWkTechnology.Service",
+      "ColorIndex": 2
+    },
+    "a3423889-028b-4ff4-b152-74dc43ada346": {
+      "ProjectGuid": "a3423889-028b-4ff4-b152-74dc43ada346",
+      "DisplayName": "ApiWkTechnology.Infra",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,51 @@
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.runtimeconfig.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\bin\Debug\net6.0\ref\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ref\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.genruntimeconfig.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.runtimeconfig.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\bin\Debug\net6.0\ref\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ref\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.genruntimeconfig.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.runtimeconfig.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\bin\Debug\net6.0\ref\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ref\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Infra\obj\Debug\net6.0\ApiWkTechnology.Infra.genruntimeconfig.cache

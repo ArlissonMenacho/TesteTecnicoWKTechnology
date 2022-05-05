@@ -1,0 +1,23 @@
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ref\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ref\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste WK\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ref\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\bin\Debug\net6.0\ProjetoWebWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ref\ProjetoWebWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-Web-WK-Technology\ProjetoWebWkTechnology.Domain\obj\Debug\net6.0\ProjetoWebWkTechnology.Domain.pdb

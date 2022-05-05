@@ -1,0 +1,51 @@
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ref\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ref\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ref\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ref\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Teste API WK\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ref\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Service.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Infra.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\bin\Debug\net6.0\ApiWkTechnology.Infra.pdb
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.csproj.CopyComplete
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ref\ApiWkTechnology.Service.dll
+D:\Arquivos\PROJETOS PESSOAIS\Projeto-API-WK-Technology\ApiWkTechnology.Service\obj\Debug\net6.0\ApiWkTechnology.Service.pdb
